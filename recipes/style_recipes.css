@@ -1,0 +1,48 @@
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+h2, h3 {
+    color: purple;
+}
+
+li {
+    color: rgb(184, 0, 0);
+}
+
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description {
+    font-size: x-small;
+    text-align: center;
+    margin-top: 0px;
+    color: gray;
+}
+
+.l {
+    margin-left: -210px;
+}
+
+.lc {
+    margin-left: -220px;
+}
+
+.mc {
+    margin-left: -205px;
+}
+
+#back {
+    font-size: small;
+    color: brown;
+}
+
+.green {
+    color: green;
+}
