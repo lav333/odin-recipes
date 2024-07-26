@@ -46,3 +46,7 @@ img {
 .green {
     color: green;
 }
+
+a {
+    text-decoration: none;
+}

@@ -1,17 +1,26 @@
-/* * {
-    outline: 2px solid red;
-} */
-
 h1 {
-    color: purple;
+    color: rgb(162, 123, 58);
     text-align: center;
-}
-
-li, a {
-    color: rgb(184, 0, 0);
-    margin-top: 10px;
 }
 
 body {
     background-color: rgb(255, 255, 255);
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.img {
+    justify-self: center;
+}
+
+.link {
+    color: black;
+    font-size: 25px;
+    justify-self: center;
+    z-index: 10;
+    text-decoration: none;
 }
